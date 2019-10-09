@@ -43,6 +43,7 @@ body > header a{
 }
 img#mportrait{
    filter:drop-shadow(rgba(51,51,51,0.9) -15px 5px) grayscale(0.7) opacity(0.6);
+   -webkit-filter: drop-shadow(rgba(51,51,51,0.9) -15px 5px) grayscale(0.7) opacity(0.6);
    transform: rotateY(180deg);
 }
 
