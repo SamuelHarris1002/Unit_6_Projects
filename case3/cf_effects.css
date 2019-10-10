@@ -15,8 +15,7 @@
 
 /* HTML Styles */
 html{
-   background: url(cf_back1.png) 100%/ cover;
-   background-position: fixed;
+   background: url(cf_back1.png) center center/100% fixed;
 }
 /* Body Styles */
 body{
